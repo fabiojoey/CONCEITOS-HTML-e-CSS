@@ -1,0 +1,50 @@
+
+/* span{
+    background-color: aqua;
+    border: solid 1px black;
+} */
+
+/* div{
+    display:inline;
+} */
+.inline-flex span{
+/* display:flex;
+background-color: aqua;
+border:solid 1px black;
+width: 200px;
+height: 40px;
+padding: 0px;
+margin: 0px;*/
+background-color: yellow;
+display: inline-flex;
+border: solid 1px black;
+}
+ 
+
+
+
+.inline-flex{
+    display: inline-flex;
+    background-color: aqua;
+}
+
+p{
+    display:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*inline cada um fica do mesmo não tem como alterar altura e largura*/
+/*block elemento é atingido por altura e largura e craira um block*/
+/* inline-block Exibe um elemento como um contêiner de bloco de nível embutido. O próprio elemento é formatado como um elemento embutido, mas você pode aplicar valores de altura e largura*/

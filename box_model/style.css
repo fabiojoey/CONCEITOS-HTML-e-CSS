@@ -1,0 +1,20 @@
+p{
+    background-color: aqua;
+    width: 100%;
+    /*max-width: 250px;*/
+    min-width: 250px; 
+     
+    border: solid 2px black;
+    padding: 30 px;
+    margin: 30px auto 50px auto;
+    /*Top right botton left
+    lembre que podemos usar as direções ou apenas usar uma linha com as 4 direções*/
+    border: solid black;
+    
+}
+
+.container{
+    width:500px;
+    margin: 0 auto;
+    background-color: lightseagreen;
+}
